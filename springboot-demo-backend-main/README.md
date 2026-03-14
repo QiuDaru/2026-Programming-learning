@@ -10,3 +10,6 @@
 ## 注意事項
 
 * 需複製resources裡面的application-local-example.yml命名為"application-local.yml"，再根據個人需求修改裡面的值
+
+* ##完成內容
+* CRUD操作
